@@ -1,7 +1,7 @@
 # 👋 Hi, I’m **Chaitanya Yalavarthi (@Mewz1k)**
 
 ## 🌟 About Me
-I'm a passionate **Data Analyst** and **AI Specialist** with a background in **Healthcare Informatics** and **Genomics)**. I thrive on solving complex problems with data and creating impactful solutions that drive efficiency and innovation. With expertise in data analysis, AI development, and healthcare systems, I aim to make a meaningful impact in the tech and healthcare domains.
+I'm a passionate **Data Analyst** and **AI Specialist** with a background in **Healthcare Informatics** and **Genomics**. I thrive on solving complex problems with data and creating impactful solutions that drive efficiency and innovation. With expertise in data analysis, AI development, and healthcare systems, I aim to make a meaningful impact in the tech and healthcare domains.
 
 ---
 
