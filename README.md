@@ -26,11 +26,6 @@ I'm a passionate **Data Analyst** and **AI Specialist** with a background in **H
 
 ---
 
-## 📫 **How to Reach Me**
-- **LinkedIn**: [linkedin.com/in/chaitanya-y-399b60306/](https://www.linkedin.com/in/chaitanya-y-399b60306/)
-- **Email**: [chayyalavarthi@gmail.com](mailto:chayyalavarthi@gmail.com)
-- **GitHub**: [github.com/Mewz1k](https://github.com/Mewz1k)
-
 ---
 
 ## 😄 **Pronouns**
